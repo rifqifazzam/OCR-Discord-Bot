@@ -1,6 +1,6 @@
 # OCR Discord Bot
 
-This is a simple Discord bot that can recognize text from images and post the results in a text message. It uses Tesseract OCR engine for text recognition and can split long text into multiple messages to comply with Discord's message length limit. It's an improved version of [arushnath28](https://medium.com/@arushnath28/creating-a-text-recognition-discord-bot-ocr-using-discord-js-ae45668a64b7) OCR Bot
+This is a simple Discord bot that can recognize text from images and post the results in a text message. It uses Tesseract OCR engine for text recognition and can split long text into multiple messages to comply with Discord's message length limit. It's an improved version of [arushnath28](https://medium.com/@arushnath28/creating-a-text-recognition-discord-bot-ocr-using-discord-js-ae45668a64b7)
 
 # Installation
 1. Clone this repository or download the files as a ZIP archive.
