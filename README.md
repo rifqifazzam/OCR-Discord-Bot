@@ -11,6 +11,3 @@ This is a simple Discord bot that can recognize text from images and post the re
 # Limitations
 Please note that Discord's API limits message length to 2000 characters. If the text recognized from the image exceeds this limit, the bot will automatically split the text into multiple messages.
 
-# Dependencies
-- [discord.js](https://discord.js.org/#/)
-- [Tesseract.js](https://tesseract.projectnaptha.com/)
